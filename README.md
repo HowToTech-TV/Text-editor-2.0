@@ -11,5 +11,5 @@
 
 # Contribute
 
-- Upload an extension to me: https://forms.gle/vJwn9DLaXFRpD5fr6
+- Upload an extension to me: https://forms.gle/62goXY4Q9K9PoWQD8
 - Contribute to our project
