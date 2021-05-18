@@ -2,12 +2,14 @@
 
 - A simple tool for opening text or coding files, written in python.
 
-# Features in Ver. 2.0
+# Features in Ver. 2.1
 
 - Run Python Files (Py or Pyw)
 - With font changer support
 - Extensions
 - Open and Save Files
+- Fullscreen
+- Dark Theme Support
 
 # Contribute
 
